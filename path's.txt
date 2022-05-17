@@ -1,0 +1,4 @@
+//Ruta de origen
+\\192.100.10.20\pdf\EMPRESA1\FACT
+//Ruta de destino
+C:\xampp\htdocs\FACT
